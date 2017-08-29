@@ -1,0 +1,27 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    background: rgb(240,240,240);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+$x:50;
+.box{
+   margin-top: 336/$x+rem;
+   margin-left: 212/$x+rem;
+  width: 307/$x+rem;
+   height: 302/$x+rem;
+}
+h4{
+    margin-left: 258/$x+rem;
+    margin-top: 15/$x+rem;
+    font-size: 17px;
+}
+.t{
+    width: 353/$x+rem;
+   height: 38/$x+rem;
+   margin-left: 186/$x+rem;
+   margin-top: 142/$x+rem;
+}
